@@ -1,6 +1,6 @@
 # Burger Builder app
 
-#### App created to work on many of the main core concept of React Js.
+### App created to work on many of the main core concept of React Js.
 
 How to use the downloaded files
 
