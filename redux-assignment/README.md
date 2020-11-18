@@ -1,5 +1,5 @@
 # Redux app for assignment
-#### React app built for practising state management with Redux.
+### React app built for practising state management with Redux.
 
 How to use the downloaded files
 
