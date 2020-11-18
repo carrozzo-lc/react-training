@@ -1,5 +1,5 @@
 # React Redux app
-#### App built to practice and understand Redux.
+### App built to practice and understand Redux.
 
 How to use the downloaded files
 
