@@ -1,5 +1,5 @@
 # React Hooks app
-#### app built to work on React hooks.
+### app built to work on React hooks.
 
 How to use the downloaded files
 
