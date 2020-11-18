@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+  color:#000;
+}
+
+nav {
+    margin-top:10px;
+}
+
+nav ul li a:hover,
+nav ul li a:active,
+nav ul li a.active {
+    color:#41754E;
+}
+
+nav ul {
+    width:100%;
+    margin:0; 
+    padding:0;
+}
+
+nav ul li {
+    display:inline-block;
+    margin:10px;
+}
+
+nav ul li a {
+    color:#000;
+    text-decoration: none;
+}
